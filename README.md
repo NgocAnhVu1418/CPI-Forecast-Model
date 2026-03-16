@@ -28,6 +28,8 @@ The dataset contains **quarterly CPI observations from March 1990 to December 20
 
 Additional macroeconomic context is provided through **cash rate data**, which helps validate whether the predicted CPI trend is economically reasonable.
 
+---
+
 # 📊 Key Visualisations
 
 Visual exploration plays an important role in understanding the behaviour of the CPI time series and validating the forecasting models used in this project.
@@ -70,12 +72,49 @@ This result aligns with macroeconomic expectations under a relatively high inter
 
 ---
 
-## Key Takeaways from Visual Analysis
+# 💡 Business Insights
 
-The visualisations highlight several important characteristics of the CPI series:
+Beyond the statistical modelling process, the analysis provides several insights that are relevant from a broader economic and business perspective.
 
-- CPI exhibits a **long-term upward trend** consistent with persistent inflation.
-- The series demonstrates **strong autocorrelation**, indicating dependence between observations over time.
-- Forecast results suggest **moderate and stable inflation growth** in the near future.
+**1. Inflation follows a persistent long-term upward trend**
 
-Together, these visual insights support the model selection and help connect statistical forecasting with real-world economic interpretation.
+The historical CPI data shows that inflation has generally increased steadily over the past three decades.  
+This highlights how inflation gradually reduces purchasing power over time, which is an important consideration for businesses when planning pricing strategies, wage adjustments, and long-term investments.
+
+**2. Inflation tends to change gradually rather than abruptly**
+
+The strong dependence between CPI values across periods suggests that inflation evolves progressively rather than experiencing sudden shifts.  
+For policymakers and financial institutions, this means that monitoring recent inflation data can provide useful signals about near-term economic trends.
+
+**3. Forecast results suggest moderate inflation growth**
+
+The forecasted CPI trajectory indicates that inflation is expected to **continue increasing at a moderate pace rather than accelerating sharply**.  
+In practice, this implies a relatively stable inflation environment, where businesses and policymakers can anticipate gradual cost increases rather than extreme volatility.
+
+**4. Data-driven forecasting supports economic decision making**
+
+By combining statistical models with economic interpretation, forecasting tools like this can help governments, central banks, and organisations anticipate inflation trends and make more informed strategic decisions.
+
+---
+
+# 🌍 Project Impact & Applications
+
+Although this project was developed in an academic setting, the forecasting approach reflects how data analytics can support real-world economic and business decision-making.
+
+**1. Policy and economic analysis**
+
+CPI forecasting plays a crucial role for central banks and policymakers when assessing inflation trends and determining monetary policy actions such as interest rate adjustments.
+
+**2. Business planning and cost management**
+
+For businesses, understanding expected inflation trends helps support decisions related to pricing strategies, budgeting, and long-term financial planning. Anticipating gradual increases in consumer prices can help companies better manage operating costs and maintain profitability.
+
+**3. Financial market insights**
+
+Investors and financial institutions closely monitor inflation forecasts when evaluating investment opportunities and portfolio risk. Reliable forecasts of inflation trends can support decisions related to asset allocation, bond yields, and interest-rate-sensitive investments.
+
+**4. Data-driven economic decision making**
+
+More broadly, this project demonstrates how statistical modelling and data analysis can be used to transform historical economic data into forward-looking insights that support informed decision making.
+
+While simplified for academic purposes, the workflow in this project reflects the broader process used by analysts when building predictive models for macroeconomic indicators.
