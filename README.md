@@ -44,7 +44,7 @@ While CPI growth remained relatively stable for many years, a noticeable acceler
 
 Understanding this trend is important because it highlights the **non-stationary nature of the CPI series**, which must be addressed before applying time series models such as ARIMA.
 
-![CPI Trend](images/cpi_trend.png)
+![CPI Trend](images:/cpi_trend.png)
 
 ---
 
@@ -68,7 +68,7 @@ The forecast shows a **moderate upward trajectory**, suggesting that inflation i
 
 This result aligns with macroeconomic expectations under a relatively high interest rate environment, where monetary tightening typically slows down inflation growth.
 
-![CPI Forecast](images/cpi_forecast.png)
+![CPI Forecast](images:/cpi_forecast.png)
 
 ---
 
